@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph="triagdn" class="1"/>
+      <ClassDef glyph="triagup" class="1"/>
+      <ClassDef glyph="uni2206" class="1"/>
+      <ClassDef glyph="uni25B3" class="1"/>
+      <ClassDef glyph="uni25B6" class="1"/>
+      <ClassDef glyph="uni25B7" class="1"/>
+      <ClassDef glyph="uni25BD" class="1"/>
+      <ClassDef glyph="uni25C0" class="1"/>
+      <ClassDef glyph="uni25C1" class="1"/>
+    </GlyphClassDef>
+  </GDEF>
+
+</ttFont>

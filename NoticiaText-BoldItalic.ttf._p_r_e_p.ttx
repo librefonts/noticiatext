@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <prep>
+    <assembly>
+      PUSHB[ ]  /* 1 value pushed */
+      0
+      CALL[ ]
+      SVTCA[0]
+      PUSHB[ ]  /* 3 values pushed */
+      1 18 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHB[ ]  /* 3 values pushed */
+      19 5 2
+      CALL[ ]
+      SVTCA[1]
+      PUSHB[ ]  /* 8 values pushed */
+      19 45 37 31 19 11 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      20 64 57 43 28 22 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      21 41 31 24 19 11 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      22 38 31 24 19 11 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      23 35 31 24 19 11 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHB[ ]  /* 8 values pushed */
+      1 70 57 43 28 22 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      2 74 57 42 36 28 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      3 95 78 61 44 28 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      4 119 98 76 54 31 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      5 103 78 61 44 28 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      6 145 119 92 66 40 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      7 67 55 43 31 19 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      8 47 38 30 22 13 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      9 59 48 38 29 16 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      10 41 33 26 19 11 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      11 33 27 21 15 9 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      12 35 29 22 16 10 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      13 27 22 18 13 8 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      14 28 23 18 13 8 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      15 44 36 28 20 12 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      16 39 32 25 18 11 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      17 22 18 14 10 6 0 8
+      CALL[ ]
+      PUSHB[ ]  /* 8 values pushed */
+      18 17 14 11 8 5 0 8
+      CALL[ ]
+      SVTCA[0]
+      PUSHB[ ]  /* 3 values pushed */
+      24 7 7
+      CALL[ ]
+      PUSHB[ ]  /* 1 value pushed */
+      0
+      DUP[ ]
+      RCVT[ ]
+      RDTG[ ]
+      ROUND[01]
+      RTG[ ]
+      WCVTP[ ]
+    </assembly>
+  </prep>
+
+</ttFont>
